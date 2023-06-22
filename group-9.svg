@@ -1,0 +1,14 @@
+<svg width="186" height="66" viewBox="0 0 186 66" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="i5a6caw3xa" cx="152.742" cy="33" r="33"/>
+        <mask id="f7fys0kgxb" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="66" fill="#fff">
+            <use xlink:href="#i5a6caw3xa"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".24">
+        <path stroke="#FFF" stroke-width="2" stroke-dasharray="6" d="M0 32.796h119.742"/>
+        <use stroke="#FFF" mask="url(#f7fys0kgxb)" stroke-width="4" stroke-dasharray="6" xlink:href="#i5a6caw3xa"/>
+        <path d="M135 14h36v36h-36z"/>
+        <path d="M145.5 27.5H138v-3h7.5v3zm0 4.5H138v3h7.5v-3zm20.385 10.5-5.745-5.745A7.555 7.555 0 0 1 156 38c-4.14 0-7.5-3.36-7.5-7.5 0-4.14 3.36-7.5 7.5-7.5 4.14 0 7.5 3.36 7.5 7.5 0 1.53-.465 2.94-1.245 4.125l5.745 5.76-2.115 2.115zm-5.385-12c0-2.475-2.025-4.5-4.5-4.5a4.513 4.513 0 0 0-4.5 4.5c0 2.475 2.025 4.5 4.5 4.5s4.5-2.025 4.5-4.5zm-22.5 12h15v-3h-15v3z" fill="#FFF" fill-rule="nonzero"/>
+    </g>
+</svg>

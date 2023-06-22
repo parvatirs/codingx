@@ -1,0 +1,14 @@
+<svg width="187" height="66" viewBox="0 0 187 66" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="se9co4exwa" cx="152.742" cy="33" r="33"/>
+        <mask id="daqmgqs5jb" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="66" fill="#fff">
+            <use xlink:href="#se9co4exwa"/>
+        </mask>
+    </defs>
+    <g transform="translate(.258)" fill="none" fill-rule="evenodd" opacity=".24">
+        <path stroke="#FFF" stroke-width="2" stroke-dasharray="6" d="M0 32.796h119.742"/>
+        <use stroke="#FFF" mask="url(#daqmgqs5jb)" stroke-width="4" stroke-dasharray="6" xlink:href="#se9co4exwa"/>
+        <path d="M134.742 18h36v36h-36z"/>
+        <path d="M163.242 19.5h-21a2.996 2.996 0 0 0-2.985 3l-.015 19.395c0 1.035.525 1.95 1.32 2.49l12.18 8.115 12.165-8.115a3.008 3.008 0 0 0 1.32-2.49l.015-19.395c0-1.65-1.35-3-3-3zm-10.5 29.4-10.5-6.99V22.5h21v19.395l-10.5 7.005zm-3.015-11.13-3.87-3.885L143.742 36l6 6 12-12-2.13-2.13-9.885 9.9z" fill="#FFF" fill-rule="nonzero"/>
+    </g>
+</svg>

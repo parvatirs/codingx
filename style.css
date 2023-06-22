@@ -1,0 +1,599 @@
+.rectangle{
+  position: relative;
+  display: inline-block;
+  text-align: right;
+
+}
+img.Rectangle {
+    width: 2040px;
+    height: 1440px;
+    margin: 0 0 26px;
+    padding: 31px 99px 31px 53px;
+    object-fit: contain;
+    background-color: var(--dark);
+}
+img.Coding-X_Logo {
+    width: 131px;
+    height: 48px;
+    margin: 0 755px 0 0;
+    
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+}
+.Home a{
+  display: inline-block;
+  margin-left: 10px; 
+}
+.Features a{
+  display: inline-block;
+  margin-left: 10px; 
+}
+.Testimonials{
+  display: inline-block;
+  margin-left: 10px; 
+}
+.Courses{
+  display: inline-block;
+  margin-left: 10px; 
+}
+
+
+
+
+.Home {
+    width: 53px;
+    height: 25px;
+    margin: 12px 30px 11px 756px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+  
+    color: #fff;
+}
+.Features {
+    width: 76px;
+    height: 25px;
+    margin: 12px 30px 11px 27px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+}
+.Testimonials {
+    width: 112px;
+    height: 25px;
+    margin: 12px 30px 11px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+}
+.Courses {
+    width: 70px;
+    height: 25px;
+    margin: 12px 0 11px 30px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+}
+.Landing-Page_1-01 {
+    width: 1440px;
+    height: 1024px;
+    padding: 0 0 79px;
+    object-fit: contain;
+    display: block;
+}
+.Group-3 {
+    width: 420px;
+    height: 666px;
+    margin: 26px 102px 2px 918px;
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+  .Coding-X-A-New-Way {
+    width: 401px;
+    height: 25px;
+    margin: 2px 127px 26px 912px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .Rectangle {
+    width: 500px;
+    height: 90px;
+    margin: 26px 78px 0 862px;
+    padding: 24px 137px 27px;
+    border-radius: 45px;
+    border: solid 2px #fff;
+  }
+  .Download-Now {
+    width: 226px;
+    height: 39px;
+    font-family: LacaText;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+  }
+  img.Rectangle0 {
+    width: 1440px;
+    height: 1210px;
+    margin: 1024px 0 0;
+    padding: 268px 78px 261px 112px;
+    object-fit: contain;
+  }
+  img.Group-16 {
+    width: 1440px;
+    height: 1210px;
+    margin: 1024px 0 0;
+    padding: 268px 78px 261px 112px;
+    object-fit: contain;
+  }
+  img.Group-9 {
+    width: 340px;
+    height: 681px;
+    margin: 0 192px 0 191px;
+    object-fit: contain;
+  }
+  .ONE-STOP-SOLUTION-FO {
+    width: 247px;
+    height: 50px;
+    margin: 56px 22px 195px 0;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: var(--shamrock-green);
+  }
+  img.Group-14 {
+    width: 187px;
+    height: 66px;
+    margin: 47px 302.3px 188px 24px;
+    object-fit: contain;
+  }
+  img.Group-12 {
+    width: 187px;
+    height: 66px;
+    margin: 187px 304.3px 190px 22px;
+    object-fit: contain;
+    opacity: 0.24;
+  }
+  .INTERACTIVE-CONTENT {
+    width: 236px;
+    height: 25px;
+    margin: 208px 22px 210px 11px;
+    opacity: 0.24;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #fff;
+  }
+  img.Group-11 {
+    width: 187px;
+    height: 66px;
+    margin: 190px 302.3px 58px 24px;
+    object-fit: contain;
+    opacity: 0.24;
+  }
+  .BITE-SIZED-CONTENT {
+    width: 214px;
+    height: 25px;
+    margin: 211px 22px 78px 33px;
+    opacity: 0.24;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+  img.Group-9 {
+    width: 186px;
+    height: 66px;
+    margin: 48px 22px 187px 304px;
+    object-fit: contain;
+    opacity: 0.24;
+  }
+  .IN-DEPTH-TOPIC-COVER {
+    width: 278px;
+    height: 25px;
+    margin: 68px 2px 208px 21.7px;
+    opacity: 0.24;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+  img.Group-15 {
+    width: 186px;
+    height: 66px;
+    margin: 187px 21.7px 190px 304.3px;
+    object-fit: contain;
+    opacity: 0.24;
+  }
+  .EXPERT-CURATED-COURS {
+    width: 280px;
+    height: 25px;
+    margin: 208px 0 210px 21.7px;
+    opacity: 0.24;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+  img.Group-6 {
+    width: 186px;
+    height: 66px;
+    margin: 190px 23.7px 58px 302.3px;
+    object-fit: contain;
+    opacity: 0.24;
+  }
+  .GET-CERTIFIED-BECO {
+    width: 277px;
+    height: 48px;
+    margin: 200px 3px 66px 21.7px;
+    opacity: 0.24;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+  img.Rectangle {
+    width: 1440px;
+    height: 770px;
+    margin: 1210px 0 82px;
+    padding: 71px 51px 91px;
+    object-fit: contain;
+    background-color: var(--dark);
+  }
+  Rectanglee{
+        width: 424px;
+        height: 430px;
+        margin: 139px 23px 0 0;
+        padding: 84px 20px 106px 21px;
+        object-fit: contain;
+        border-radius: 24px;
+        border-style: solid;
+        border-width: 1px;
+        border-image-source: linear-gradient(to bottom, var(--liliac), var(--purplish-blue));
+        border-image-slice: 1;
+        position:relative
+  }
+  img.Group {
+    width: 126px;
+    height: 126px;
+    margin: 87px 172px 356px 149px;
+    object-fit: contain;
+  }
+
+  .Frank-Myers {
+    width: 128px;
+    height: 24px;
+    margin: 0 128px 3px 12px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+  }
+  .Student-22-USA {
+    width: 126px;
+    height: 19px;
+    margin: 6px 129px 26px 13px;
+    opacity: 0.42;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+  }
+  .Amazing-App-Never-s {
+    width: 383px;
+    height: 165px;
+    margin: 26px 0 0;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 2.06;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+  }
+  img.Group-5 {
+    width: 126px;
+    height: 126px;
+    margin: 87px 182px 356px;
+    object-fit: contain;
+    
+  }
+  .Michelle-Anderson {
+    width: 166px;
+    height: 25px;
+    margin: 0 106px 2px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .Student-23-Canada {
+    width: 143px;
+    height: 19px;
+    margin: 2px 117px 29px 4px;
+    opacity: 0.42;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .It-is-easy-to-use-fo {
+    width: 378px;
+    height: 231px;
+    margin: 29px 0 0;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 2.06;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  img.Group-5-Copy {
+    width: 126px;
+    height: 126px;
+    margin: 87px 149px 356px 171px;
+    object-fit: contain;
+  }
+  .Josh-Pickett {
+    width: 109px;
+    height: 25px;
+    margin: 0 134px 2px 21px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .Student-22-Austral {
+    width: 154px;
+    height: 19px;
+    margin: 2px 112px 29px;
+    opacity: 0.42;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .Its-easy-simply-de {
+    width: 378px;
+    height: 198px;
+    margin: 29px 0 0;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 2.06;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .EXPLORE-OUR-COURSES {
+    width: 373px;
+    height: 39px;
+    margin: 82px 254px 92px 132px;
+    font-family: LacaText;
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  img.Hacker-X_1-01 {
+    width: 330px;
+    height: 468px;
+    margin: 92px 33px 79px 72px;
+    padding: 175px 46.5px 175px 47.5px;
+    object-fit: contain;
+  }
+  .HACKER-X {
+    width: 100px;
+    height: 25px;
+    margin: 0 68.5px 18px 67.5px;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--liliac);
+  }
+  .Learn-Cybersecurity {
+    width: 236px;
+    height: 75px;
+    margin: 18px 0 0;
+    font-family: LacaText;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  img.Group-19 {
+    width: 330px;
+    height: 468px;
+    margin: 92px 33px 79px;
+    object-fit: contain;
+  }
+  img.Group-18 {
+    width: 330px;
+    height: 468px;
+    margin: 92px 33px 79px;
+    object-fit: contain;
+  }
+  img.Group-17 {
+    width: 279px;
+    height: 468px;
+    margin: 92px 0 79px 33px;
+    object-fit: contain;
+  }
+  .Privacy-Policy-Leg {
+    width: 148px;
+    height: 19px;
+    margin: 0 17px 13px 16px;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .-Rightsol-Pvt-Ltd {
+    width: 181px;
+    height: 19px;
+    margin: 13px 0 0;
+    font-family: LacaText;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+  .con{
+    position: relative;
+    display: inline-block;
+  
+  }
+  /* Footer styles */
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  color: #888;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+.footer:hover {
+  text-decoration: underline;
+}
+
+
+
+
+

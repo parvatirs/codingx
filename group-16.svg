@@ -1,0 +1,46 @@
+<svg width="1440" height="1210" viewBox="0 0 1440 1210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="62wjpjbi3d" cx="208" cy="208" r="208"/>
+        <circle id="xqx0uw2n3a" cx="172" cy="823" r="172"/>
+        <path id="yz7s4bvm0b" d="M0 0h1440v1210H0z"/>
+        <mask id="2fc05o92mf" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="344" height="344" fill="#fff">
+            <use xlink:href="#xqx0uw2n3a"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="gcbf8k7yvc" fill="#fff">
+            <use xlink:href="#yz7s4bvm0b"/>
+        </mask>
+        <g mask="url(#gcbf8k7yvc)">
+            <g transform="translate(-176 92)">
+                <g transform="translate(1387)">
+                    <mask id="9t3x64lqne" fill="#fff">
+                        <use xlink:href="#62wjpjbi3d"/>
+                    </mask>
+                    <use fill="#82B1FF" opacity=".05" xlink:href="#62wjpjbi3d"/>
+                    <g opacity=".02" mask="url(#9t3x64lqne)" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="21">
+                        <path d="M-22.629 70h77.258M-23 209h48M-22 139h181M-23 278h143M-22 346h83M95 70h40M170 70h62M59 209h99M200 139h32M162 278h70M103 346h129"/>
+                    </g>
+                </g>
+                <use stroke="#00C953" mask="url(#2fc05o92mf)" stroke-width="48" opacity=".05" stroke-dasharray="60" transform="matrix(1 0 0 -1 0 1646)" xlink:href="#xqx0uw2n3a"/>
+                <circle fill="#00C953" opacity=".05" transform="matrix(1 0 0 -1 0 1646)" cx="172" cy="823" r="73"/>
+                <g opacity=".05" fill="#FFD741">
+                    <path d="m361.76 72.5-33 16.5V56zM319.52 72.5l-33 16.5V56zM404 72.5 371 89V56z"/>
+                </g>
+                <g opacity=".05" fill="#458AFF">
+                    <path d="m1383.76 977.5-33 16.5v-33zM1341.52 977.5l-33 16.5v-33zM1426 977.5l-33 16.5v-33z"/>
+                </g>
+            </g>
+        </g>
+        <g opacity=".1" mask="url(#gcbf8k7yvc)">
+            <g transform="translate(195 206)">
+                <circle fill="#00C953" cx="829" cy="8" r="8"/>
+                <circle fill="#37474F" cx="1148" cy="439" r="9"/>
+                <circle fill="#FFC400" cx="7" cy="369" r="7"/>
+                <circle fill="#E53935" cx="734" cy="849" r="8"/>
+                <circle fill="#2979FF" cx="164" cy="830" r="8"/>
+                <circle fill="#6520FF" cx="243.5" cy="67.5" r="8.5"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="187" height="66" viewBox="0 0 187 66" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="nrn3aulida" cx="33" cy="33" r="33"/>
+        <mask id="11cqj3pcwb" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="66" fill="#fff">
+            <use xlink:href="#nrn3aulida"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".24">
+        <path stroke="#FFF" stroke-width="2" stroke-dasharray="6" d="M67 33.5h119.742"/>
+        <use stroke="#FFF" mask="url(#11cqj3pcwb)" stroke-width="4" stroke-dasharray="6" xlink:href="#nrn3aulida"/>
+        <path d="M15 15h36v36H15z"/>
+        <path d="M37.23 31.5h10.695C47.22 24.42 41.58 18.78 34.5 18.075V28.77a4.552 4.552 0 0 1 2.73 2.73zm.27-9.63c3 1.23 5.4 3.63 6.63 6.63h-5.145a7.736 7.736 0 0 0-1.485-1.485V21.87zM18 33c0 7.785 5.925 14.175 13.5 14.925V37.23c-1.74-.63-3-2.28-3-4.23 0-1.95 1.26-3.6 3-4.23V18.075C23.925 18.825 18 25.215 18 33zm10.5-11.13v5.16a7.48 7.48 0 0 0-3 5.97c0 2.385 1.155 4.59 3 5.985v5.16A11.98 11.98 0 0 1 21 33c0-5.025 3.06-9.36 7.5-11.13zm6 15.36v10.695c7.08-.705 12.72-6.345 13.425-13.425H37.23a4.552 4.552 0 0 1-2.73 2.73zm3 1.755a7.333 7.333 0 0 0 1.485-1.485h5.145c-1.23 3-3.63 5.4-6.63 6.63v-5.145z" fill="#FFF" fill-rule="nonzero"/>
+    </g>
+</svg>
